@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\PointofSale_ITE_314\bin\Debug\PointofSale_ITE_314.exe.config
+C:\Users\Student\source\repos\PointofSale_ITE_314\bin\Debug\PointofSale_ITE_314.exe
+C:\Users\Student\source\repos\PointofSale_ITE_314\bin\Debug\PointofSale_ITE_314.pdb
+C:\Users\Student\source\repos\PointofSale_ITE_314\obj\Debug\PointofSale_ITE_314.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\PointofSale_ITE_314\obj\Debug\PointofSale_ITE_314.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\PointofSale_ITE_314\obj\Debug\PointofSale_ITE_314.Form1.resources
+C:\Users\Student\source\repos\PointofSale_ITE_314\obj\Debug\PointofSale_ITE_314.Properties.Resources.resources
+C:\Users\Student\source\repos\PointofSale_ITE_314\obj\Debug\PointofSale_ITE_314.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\PointofSale_ITE_314\obj\Debug\PointofSale_ITE_314.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\PointofSale_ITE_314\obj\Debug\PointofSale_ITE_314.exe
+C:\Users\Student\source\repos\PointofSale_ITE_314\obj\Debug\PointofSale_ITE_314.pdb
